@@ -1,0 +1,17 @@
+{
+    "name":"mvc-tech-blog",
+    "version": "1.0.0",
+    "main":"server.js",
+    "scripts": {
+        "start":"node server.js"
+    },
+    "dependencies": {
+        "express-handlebars": "^6.0.5",
+        "express-session": "^1.17.1",
+        "sequelize": "^5.21.5",
+        "connect-session-sequelize": "^7.0.4",
+        "mysql2": "^2.1.0",
+        "dotenv": "^8.2.0",
+        "bcrypt": "^5.0.0"
+    }
+}

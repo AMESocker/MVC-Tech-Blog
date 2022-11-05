@@ -5,17 +5,17 @@ M14C
 
 [express-handlebars](https://www.npmjs.com/package/express-handlebars) 
 
-[MySQL2](https://www.npmjs.com/package/mysql2)
+[express-session](https://www.npmjs.com/package/express-session)
 
 [Sequelize](https://www.npmjs.com/package/sequelize)
+
+[connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize)
+
+[MySQL2](https://www.npmjs.com/package/mysql2)
 
 [dotenv package](https://www.npmjs.com/package/dotenv)
 
 [bcrypt package](https://www.npmjs.com/package/bcrypt)
-
-[express-session](https://www.npmjs.com/package/express-session)
-
-[connect-session-sequelize](https://www.npmjs.com/package/connect-session-sequelize)
 
 ## User Story
 
