@@ -16,3 +16,12 @@
 //dashboard post update or delete then back to dashboard
 //navigation-logout
 //idle time sign out
+
+const expHbars = require('express-handlebars');
+const session = require('express-session');
+const SequelizeStore = require('connect-session-sequelize')(session.Store);
+const express = require('express');
+
+
+const app = express();
+const PORT = process.env.PORT || 3001;
