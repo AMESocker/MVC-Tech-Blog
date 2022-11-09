@@ -1,5 +1,11 @@
-# MVC-Tech-Blog
-M14C
+# MVC-Tech-Blog-2000
+M14C 
+
+A blog site using handlebar templates.
+
+## Deployment Site
+
+[Tech-Blog-2000]()
 
 ## Required Installation
 
