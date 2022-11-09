@@ -23,7 +23,7 @@ app.engine('handlebars', hbs.engine);
 app.set('view engine', 'handlebars');
 
 // Sets up the routes
-app.use(require('./controllers/routes'));
+app.use(require('./controllers'));
 
 //Starts the server to begin listening
 app.listen(PORT, () => {
